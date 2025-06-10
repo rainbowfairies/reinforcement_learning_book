@@ -6,7 +6,7 @@ Part of the book is written with Grammarly and customized language AI products G
     </embed>
 </object>
 
-This is the second edition of the book. If you use this writing, please cite it as below.
+This is the first edition of the book. If you use this writing, please cite it as below.
 
 @misc{rlftter, \
   title =        {Reinforcement learning - From Theory To Empirical Research}, \
